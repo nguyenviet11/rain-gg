@@ -16,7 +16,7 @@ export default function Home() {
     >
       <main className={styles.main}>
         <h3 className={styles.text}>
-            Rain GG Official Site{""}
+            Rain GG Official Site{" "}
           <span
             style={{ transform: "translate(0px)", display: "inline-block" }}
           >
