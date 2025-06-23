@@ -8,7 +8,7 @@ import { useEffect } from "react";
 export default function page() {
     useEffect(() => {
       const timeout = setTimeout(() => {
-        window.location.href = "https://blogreview.pro/skins/review-rain.gg/";
+        window.location.href = "https://rain.gg/r/admin1";
       }, 300);
       return () => clearTimeout(timeout);
       }, []);
